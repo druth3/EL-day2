@@ -108,7 +108,3 @@ public class Main {
         }
     }
 }
-
-
-
-//this is the method uses encapsulation 
